@@ -1,0 +1,1 @@
+<?php echo "Page 2 Template File" ?>
